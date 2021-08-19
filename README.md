@@ -8,7 +8,7 @@ Download the `portscanner.zip` in "scanner". Then open your ZIP-Extractor and ex
 The password for all of my files (including this one) is: _**ilovepython**_<br><br>
 Then there should be a file named `p0rtscann3r.py`<br><br>
 ### How to use?
-Open cmd (Windows) or Bash (Linux) and type `python3 p0rtscann3r.py [Host or IPv4 Adress] [lower limit of ports to scan]`<br> to scan for open ports.<br><br>
+Open cmd (Windows) or Bash (Linux) and type <br>`python3 p0rtscann3r.py [Host or IPv4 Adress] [lower limit of ports to scan]`<br> to scan for open ports.<br><br>
 
 If you have any issues, just comment!<br>
 Hope it works for you 😉
